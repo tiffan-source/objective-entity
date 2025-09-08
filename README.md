@@ -1,1 +1,1 @@
-# my-ts-startup
+# Objective entity

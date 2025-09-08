@@ -7,7 +7,7 @@
       "allowJs": false,
       // "resolveJsonModule": true,
       "moduleDetection": "force",
-      "isolatedModules": true,
+      // "isolatedModules": true,
       "verbatimModuleSyntax": true,
 
       /* Strictness */
@@ -16,9 +16,10 @@
       "noImplicitOverride": true,
 
       /* If transpiling with TypeScript: */
-      "module": "esnext",
+      "module": "nodenext",
       "outDir": "dist",
       "sourceMap": true,
+      "moduleResolution": "nodenext",
 
       /* AND if you're building for a library: */
       "declaration": true,

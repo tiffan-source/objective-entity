@@ -1,5 +1,2 @@
-import SayHello from "./main.js";
-
-const hello = new SayHello();
-
-hello.sayHello();
+export * from "./entities/objective.entity.js";
+export * from "./factories/objective.factory.js";

@@ -1,14 +1,14 @@
 {
   "name": "objective-entity",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple TypeScript template for Node.js projects",
   "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/tiffan-source/objective-entity.git"
   },
-   "main": "dist/src/index.js",
-   "types": "dist/src/index.d.ts",
+  "main": "dist/src/index.js",
+  "types": "dist/src/index.d.ts",
   "scripts": {
     "lint": "npx eslint --fix",
     "format": "npx prettier --write .",

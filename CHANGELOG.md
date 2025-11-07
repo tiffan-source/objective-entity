@@ -1,5 +1,11 @@
 # objective-entity
 
+## 1.1.0
+
+### Minor Changes
+
+- 0b6cb04: add method to handle description and completion status
+
 ## 1.0.3
 
 ### Patch Changes
